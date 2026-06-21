@@ -21,6 +21,4 @@ This project translates student experience research and implementation planning 
 * Completion certificate interaction
 * University of Alberta-inspired visual design
 
-## Notes
 
-This project was built as an applied coding and technical communication prototype, using AI-assisted coding workflows alongside manual testing, editing, and refinement.
